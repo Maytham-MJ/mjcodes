@@ -7,7 +7,7 @@ var github = "https://github.com/WarDust00";
 var email = "maythamlucky@gmail.com";
 var mortgageQualifier ="https://github.com/WarDust00/Mortgage-Qualifier"
 var mirrorToekn="https://github.com/WarDust00/Mirror-Token-"
-var CyberBank="https://github.com/WarDust00/Cyber-Bank"
+var cyberBank="https://github.com/WarDust00/Cyber-Bank"
 
 whois = [
   "<br>",
@@ -52,7 +52,7 @@ projects = [
   `<br>`,
   'Project <a href="' + mortgageQualifier + '" target="_blank">Mortgage Qualifier' + '</a>',
   'Project <a href="' + mirrorToekn + '" target="_blank">Mirror Token' + '</a>',
-  'Project <a href="' + CyberBank+ '" target="_blank">CyberBank' + '</a>',
+  'Project <a href="' + cyberBank + '" target="_blank">CyberBank' + '</a>',
   
 
 
