@@ -47,7 +47,7 @@ secret = [
 
 projects = [
   "<br>",
-  " I have build few cool projects some are simple just for fun, while others are solving real world need.",
+  " I have build few cool projects some are simple just for fun, while others are solving real world needs.",
   " Most projects are on GitHub.",
   `<br>`,
   'Project <a href="' + mortgageQualifier + '" target="_blank">Mortgage Qualifier' + '</a>',
