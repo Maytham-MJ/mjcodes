@@ -3,20 +3,20 @@ var twitter = "";
 var password = "fkcodes";
 var linkedin = "";
 var instagram = "";
-var github = "https://github.com/WarDust00";
+var github = "https://github.com/MaythamAlkhailaniRevature";
 var email = "maythamlucky@gmail.com";
-var mortgageQualifier ="https://github.com/WarDust00/Mortgage-Qualifier"
-var mirrorToekn="https://github.com/WarDust00/Mirror-Token-"
-var cyberBank="https://github.com/WarDust00/Cyber-Bank"
+var mortgageQualifier ="https://github.com/MaythamAlkhailaniRevature/Mortgage-Qualifier"
+var mirrorToekn="https://github.com/MaythamAlkhailaniRevature/Mirror-Token-"
+var cyberBank="https://github.com/MaythamAlkhailaniRevature/Cyber-Bank"
 
 whois = [
   "<br>",
   "Hey, I'm Maytham AKA M.J!👋",
   "I'm a software engineer from CA, who builds software applications && cool stuff like this one.",
-  "After graduating from collage, I quickly came to find out that software engineering && building ",
-  "cool things is my passion. I then quickly started to learn and taught myself coding and programming",
+  "After graduating from college, I quickly came to find out that software engineering && building ",
+  "cool things are my passion. I then quickly started to learn and taught myself coding and programming",
   "languages such as: HTML, CSS, JS, PY, _CommandLine and more.",
-  "I start enjoying the feeling of building things. I than decided to join a bootcamp to further educate",
+  "I start enjoying the feeling of building things. I then decided to join a bootcamp to further educate",
   "and build my knowledge. I was trained on Java and how to be a professional Java developer on",
   "an enterprise level, building  web applications for Fortune 500 companies.",
 
@@ -35,7 +35,7 @@ social = [
  // 'twitter        <a href="' + twitter + '" target="_blank">twitter/M.J' + '</a>',//
  // 'linkedin       <a href="' + linkedin + '" target="_blank">' + "</a>",
 // 'instagram      <a href="' + instagram + '" target="_blank">instagram/M.J' + '</a>',//
-  'github         <a href="' + github + '" target="_blank">github/WarDust00' + "</a>",
+  'github         <a href="' + github + '" target="_blank">https://github.com/MaythamAlkhailaniRevature' + "</a>",
   "<br>"
 ];
 
