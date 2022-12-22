@@ -5,10 +5,10 @@ var linkedin = "";
 var instagram = "";
 var github = "https://github.com/Maytham-MJ";
 var email = "maythamlucky@gmail.com";
-var mortgageQualifier ="https://github.com/Maytham-MJ/Mortgage-Qualifier";
-var mirrorToekn ="https://github.com/Maytham-MJ/Mirror-Token-";
-var cyberBank ="https://github.com/Maytham-MJ/Cyber-Bank";
-var CRUD_API ="https://github.com/Maytham-MJ/CRUDAPI";
+var MortgageQualifier ="https://github.com/Maytham-MJ/Mortgage-Qualifier";
+var MirrorToekn ="https://github.com/Maytham-MJ/Mirror-Token-";
+var CyberBank ="https://github.com/Maytham-MJ/Cyber-Bank";
+var CrudAPI ="https://github.com/Maytham-MJ/CRUDAPI";
 
 whois = [
   "<br>",
@@ -51,10 +51,10 @@ projects = [
   " I have build few cool projects some are simple just for fun, while others are solving real world needs.",
   " Most projects are on GitHub.",
   `<br>`,
-  'Project <a href="' + mortgageQualifier + '" target="_blank">Mortgage Qualifier' + '</a>',
-  'Project <a href="' + mirrorToekn + '" target="_blank">Mirror Token' + '</a>',
-  'Project <a href="' + cyberBank + '" target="_blank">CyberBank' + '</a>',
-  'Project <a href="' + CRUD_API + '" target="_blank">CRUD API' + '</a>',
+  'Project <a href="' + MortgageQualifier + '" target="_blank">Mortgage Qualifier' + '</a>',
+  'Project <a href="' + MirrorToekn + '" target="_blank">Mirror Token' + '</a>',
+  'Project <a href="' + CyberBank + '" target="_blank">CyberBank' + '</a>',
+  'Project <a href="' + CrudAPI + '" target="_blank">CRUD API' + '</a>',
   
 
 
