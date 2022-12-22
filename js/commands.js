@@ -5,10 +5,10 @@ var linkedin = "";
 var instagram = "";
 var github = "https://github.com/Maytham-MJ";
 var email = "maythamlucky@gmail.com";
-var mortgageQualifier ="https://github.com/Maytham-MJ/Mortgage-Qualifier"
-var mirrorToekn="https://github.com/Maytham-MJ/Mirror-Token-"
-var cyberBank="https://github.com/Maytham-MJ/Cyber-Bank"
-var CRUD_API="https://github.com/Maytham-MJ/CRUDAPI"
+var mortgageQualifier ="https://github.com/Maytham-MJ/Mortgage-Qualifier";
+var mirrorToekn ="https://github.com/Maytham-MJ/Mirror-Token-";
+var cyberBank ="https://github.com/Maytham-MJ/Cyber-Bank";
+var CRUD_API ="https://github.com/Maytham-MJ/CRUDAPI";
 
 whois = [
   "<br>",
