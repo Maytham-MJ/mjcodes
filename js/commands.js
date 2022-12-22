@@ -1,13 +1,14 @@
 var youtube = "";
 var twitter = "";
-var password = "fkcodes";
+var password = "f1r3w4ll";
 var linkedin = "";
 var instagram = "";
-var github = "https://github.com/MaythamAlkhailaniRevature";
+var github = "https://github.com/Maytham-MJ";
 var email = "maythamlucky@gmail.com";
-var mortgageQualifier ="https://github.com/MaythamAlkhailaniRevature/Mortgage-Qualifier"
-var mirrorToekn="https://github.com/MaythamAlkhailaniRevature/Mirror-Token-"
-var cyberBank="https://github.com/MaythamAlkhailaniRevature/Cyber-Bank"
+var mortgageQualifier ="https://github.com/Maytham-MJ/Mortgage-Qualifier";
+var mirrorToekn ="https://github.com/Maytham-MJ/Mirror-Token-";
+var cyberBank ="https://github.com/Maytham-MJ/Cyber-Bank";
+var CRUD_API ="https://github.com/Maytham-MJ/CRUDAPI";
 
 whois = [
   "<br>",
@@ -35,7 +36,7 @@ social = [
  // 'twitter        <a href="' + twitter + '" target="_blank">twitter/M.J' + '</a>',//
  // 'linkedin       <a href="' + linkedin + '" target="_blank">' + "</a>",
 // 'instagram      <a href="' + instagram + '" target="_blank">instagram/M.J' + '</a>',//
-  'github         <a href="' + github + '" target="_blank">https://github.com/MaythamAlkhailaniRevature' + "</a>",
+  'github         <a href="' + github + '" target="_blank">https://github.com/Maytham-MJ' + "</a>",
   "<br>"
 ];
 
@@ -53,6 +54,7 @@ projects = [
   'Project <a href="' + mortgageQualifier + '" target="_blank">Mortgage Qualifier' + '</a>',
   'Project <a href="' + mirrorToekn + '" target="_blank">Mirror Token' + '</a>',
   'Project <a href="' + cyberBank + '" target="_blank">CyberBank' + '</a>',
+  'Project <a href="' + CRUD_API + '" target="_blank">CRUD API' + '</a>',
   
 
 
