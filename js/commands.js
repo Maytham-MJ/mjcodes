@@ -9,6 +9,7 @@ var MortgageQualifier ="https://github.com/Maytham-MJ/Mortgage-Qualifier";
 var MirrorToekn ="https://github.com/Maytham-MJ/Mirror-Token-";
 var CyberBank ="https://github.com/Maytham-MJ/Cyber-Bank";
 var CrudAPI ="https://github.com/Maytham-MJ/CRUDAPI";
+var NFTminter ="https://github.com/Maytham-MJ/NFTMinter";
 
 whois = [
   "<br>",
@@ -64,6 +65,7 @@ projects = [
   'Project <a href="' + MirrorToekn + '" target="_blank">Mirror Token' + '</a>',
   'Project <a href="' + CyberBank + '" target="_blank">CyberBank' + '</a>',
   'Project <a href="' + CrudAPI + '" target="_blank">CRUD API' + '</a>',
+  'Project <a href="' + NFTminter + '" target="_blank">NFT Minter' + '</a>',
   
 
 
