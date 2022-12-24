@@ -5,10 +5,10 @@ var linkedin = "";
 var instagram = "";
 var github = "https://github.com/Maytham-MJ";
 var email = "maythamlucky@gmail.com";
-var mortgageQualifier ="https://github.com/Maytham-MJ/Mortgage-Qualifier";
-var mirrorToekn ="https://github.com/Maytham-MJ/Mirror-Token-";
-var cyberBank ="https://github.com/Maytham-MJ/Cyber-Bank";
-var CRUD_API ="https://github.com/Maytham-MJ/CRUDAPI";
+var MortgageQualifier ="https://github.com/Maytham-MJ/Mortgage-Qualifier";
+var MirrorToekn ="https://github.com/Maytham-MJ/Mirror-Token-";
+var CyberBank ="https://github.com/Maytham-MJ/Cyber-Bank";
+var CrudAPI ="https://github.com/Maytham-MJ/CRUDAPI";
 
 whois = [
   "<br>",
@@ -16,12 +16,19 @@ whois = [
   "I'm a software engineer from CA, who builds software applications && cool stuff like this one.",
   "After graduating from college, I quickly came to find out that software engineering && building ",
   "cool things are my passion. I then quickly started to learn and taught myself coding and programming",
-  "languages such as: HTML, CSS, JS, PY, _CommandLine and more.",
-  "I start enjoying the feeling of building things. I then decided to join a bootcamp to further educate",
-  "and build my knowledge. I was trained on Java and how to be a professional Java developer on",
-  "an enterprise level, building  web applications for Fortune 500 companies.",
+  "languages such as: Java, Solidity, HTML, CSS, JavaScript, GIT, Angular and more.",
+  "I started to enjoy the feeling of building things. I then decided to join a bootcamp to further educate myself",
+  "where I was trained on C# .NET FrameWork, SQL, AZURE, ASP.NET, ASP Web API, and more.",
+
+  "Rrecently, I earned Harvard CS50  Certificate where I learned computer science and software engineering fundemantales.",
+  "I have successfully built an Employee Reimbursement System using an ASP.NET Core Web API written in C# as well as 2 console applications in Java.",
+  "One is Mortgage Qualifier and the other one is Cyber Bank. My proficiency in multiple languages and work knowledge allowed me to have excellent",
+  "communication and teamwork skills. In my free time, I enjoy swimming, playing soccer, and staying up-to-date on the latest automotive trends.",
+  
 
   "<br>"
+
+
 ];
 
 whoami = [
@@ -51,10 +58,10 @@ projects = [
   " I have build few cool projects some are simple just for fun, while others are solving real world needs.",
   " Most projects are on GitHub.",
   `<br>`,
-  'Project <a href="' + mortgageQualifier + '" target="_blank">Mortgage Qualifier' + '</a>',
-  'Project <a href="' + mirrorToekn + '" target="_blank">Mirror Token' + '</a>',
-  'Project <a href="' + cyberBank + '" target="_blank">CyberBank' + '</a>',
-  'Project <a href="' + CRUD_API + '" target="_blank">CRUD API' + '</a>',
+  'Project <a href="' + MortgageQualifier + '" target="_blank">Mortgage Qualifier' + '</a>',
+  'Project <a href="' + MirrorToekn + '" target="_blank">Mirror Token' + '</a>',
+  'Project <a href="' + CyberBank + '" target="_blank">CyberBank' + '</a>',
+  'Project <a href="' + CrudAPI + '" target="_blank">CRUD API' + '</a>',
   
 
 
