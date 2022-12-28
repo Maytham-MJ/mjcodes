@@ -19,8 +19,8 @@ whois = [
   "After graduating from college, I quickly came to find out that software engineering && building ",
   "cool things are my passion. I then quickly started to learn and taught myself coding and programming",
   "languages such as: Java, Solidity, HTML, CSS, JavaScript, GIT, Angular and more.",
-  "I started to enjoy the feeling of building things. I later earned Harvard CS50  Certificate where I learned Computer Science and software engineering fundemantales.",
-  "then I decided to join a bootcamp to further educate myself where I was trained on C# .NET FrameWork, SQL, AZURE, ASP.NET, ASP Web API, and more.",
+  "I started to enjoy the feeling of building things. I later earned Harvard CS50  Certificate where I learned Computer Science and software engineering",
+  "fundemantales. Then I decided to join a bootcamp to further educate myself where I was trained on C# .NET FrameWork, SQL, AZURE, ASP.NET, ASP Web API, and more.",
 
 "<br></br>",
 
