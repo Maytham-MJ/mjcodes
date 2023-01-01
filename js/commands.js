@@ -10,6 +10,7 @@ var MirrorToekn ="https://github.com/Maytham-MJ/Mirror-Token-";
 var CyberBank ="https://github.com/Maytham-MJ/Cyber-Bank";
 var CrudAPI ="https://github.com/Maytham-MJ/CRUDAPI";
 var NFTminter ="https://github.com/Maytham-MJ/NFTMinter";
+var Angular_Password_Generator ="https://github.com/Maytham-MJ/password-generator";
 
 whois = [
   "<br>",
@@ -66,6 +67,7 @@ projects = [
   'Project <a href="' + CyberBank + '" target="_blank">CyberBank' + '</a>',
   'Project <a href="' + CrudAPI + '" target="_blank">CRUD API' + '</a>',
   'Project <a href="' + NFTminter + '" target="_blank">NFT Minter' + '</a>',
+  'Project <a href="' + Angular_Password_Generator + '" target="_blank">Angular Password Generator' + '</a>',
   
 
 
