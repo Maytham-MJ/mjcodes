@@ -44,6 +44,24 @@ whoami = [
   "<br>"
 ];
 
+techStack = [
+  "<br>",
+  "I have experience with the following technologies: ",
+  "Front-end ",
+  "JavaScript | HTML | CSS | Angular | TypeScript | BootStrap",
+
+  "Back-end",
+  "Java | Spring Boot | Maven | MySQL | Docker | Bash",
+  "C# | .NET FrameWork | ASP.NET | ASP.NET Core | MSSQL | AZURE",
+
+  "Blockchain",
+  "Solidity | Remix | Web3.js",
+
+  "Version Control",
+  "GIT | GitHub ",
+
+];
+
 social = [
   "<br>",
  // 'youtube        <a href="' + youtube + '" target="_blank">youtube/WarDust00' + "</a>",//
