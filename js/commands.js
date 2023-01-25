@@ -16,7 +16,7 @@ whois = [
   "<br>",
   "Hey, I'm Maytham AKA M.J!👋",
   "<br>",
-  "I'm a software engineer from CA, who builds software applications && cool stuff like this one.",
+  "I'm a software engineer from CA with over 3 years of real work experiences, who builds software applications && cool stuff like this one.",
   "After graduating from college, I quickly came to find out that software engineering && building ",
   "cool things are my passion. I then quickly started to learn and taught myself coding and programming",
   "languages such as: Java, Solidity, HTML, CSS, JavaScript, GIT, Angular and much more.",
