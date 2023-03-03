@@ -32,7 +32,6 @@ whois = [
   "communication and teamwork skills. In my free time, I enjoy swimming, playing soccer, and staying up-to-date on the latest",
   "automotive trends.",
   
-
   "<br>"
 
 
