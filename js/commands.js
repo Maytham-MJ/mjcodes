@@ -16,7 +16,7 @@ whois = [
   "<br>",
   "Hey, I'm Maytham AKA M.J!👋",
   "<br>",
-  "I'm a software engineer from CA, who builds software applications && cool stuff like this one.",
+  "I'm a software engineer from CA with over 3 years of real work experiences, who builds software applications && cool stuff like this one.",
   "After graduating from college, I quickly came to find out that software engineering && building ",
   "cool things are my passion. I then quickly started to learn and taught myself coding and programming",
   "languages such as: Java, Solidity, HTML, CSS, JavaScript, GIT, Angular and much more.",
@@ -32,7 +32,6 @@ whois = [
   "communication and teamwork skills. In my free time, I enjoy swimming, playing soccer, and staying up-to-date on the latest",
   "automotive trends.",
   
-
   "<br>"
 
 
@@ -117,21 +116,21 @@ help = [
 banner = [
   '<span class="index">Maytham Web Terminal (M.J) Not A Corporation. All rights reserved.</span>',
 
-"      _=|_   ",
-"    _[_## ]_ ",
-"  _+[_[_+_]P/_     |_       _____       =--|-~",
-"   -\_I_I_[=\--   ~~ [o] ==- |##==]-=-~~ o]H",
-"-~/[_[_|_]_]\\   -_[[=]]    |====]  __  !j]H",
-"  //          \\\   ^U-U^  - |    - ~ .~  U/",
-"~~--__~~~--__~~-__ H_H_   _     --   _H_~",
-"-. _  ~~~#######~~~     ~~~-    ~~--  ._ - ~~-=",
-"   ~~~=~~  -~~--  _     . -      _ _ -",
-"----------------------------------",
-"|     ON June, 20th, 1969          |",
-"|  Here Men from the Planet Earth  |",
-"|   First set Foot upon the Moon   |",
-"| We came in Peace for all Mankind |",
-"---------------------------=2022=--",
-  '<span class="color2">Welcome to my interactive web terminal.</span>',
-  "<span class=\"color2\">For a list of available commands, type</span> <span class=\"command\">'help'</span><span class=\"color2\">.</span>",
-];
+ ' *                 *                  *              *',
+ '                                                     *             *',
+ '                       *            *                              ',
+ ' *               *                                          |     | |',
+ '       *              _________##                 *        / \    | |',
+ '                     @\\\\\\\\\##    *     |              |--o|===|-|',
+ ' *                  @@@\\\\\\\\##\       \|/|/            |---|   |d|',
+ '                   @@ @@\\\\\\\\\\\    \|\\|//|/     *   /     \  |w|',
+ '            *     @@@@@@@\\\\\\\\\\\    \|\|/|/         |  U    | |b|',
+ '                 @@@@@@@@@----------|    \\|//          |  S    |=| |',
+ '      __         @@ @@@ @@__________|     \|/           |  A    | | |',
+ ' ____|_@|_       @@@@@@@@@__________|     \|/           |_______| |_|',
+'=|__ _____ |=     @@@@ .@@@__________|      |             |@| |@|  | |',
+'____0_____0__\|/__@@@@__@@@__________|_\|/__|___\|/__\|/___________|_|_',
+
+'<span class="color2"> Welcome to my interactive web terminal.</span>',
+"<span class=\"color2\">For a list of available commands, type</span> <span class=\"command\">'help'</span><span class=\"color2\">.</span>",
+]; 
