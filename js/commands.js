@@ -6,9 +6,11 @@ var instagram = "";
 var github = "https://github.com/Maytham-MJ";
 var email = "maythamlucky@gmail.com";
 var MortgageQualifier ="https://github.com/Maytham-MJ/Mortgage-Qualifier";
+var Map_IT = "https://ambiguous-meat.surge.sh";
+var CyberBank ="https://foamy-ground.surge.sh";
+var Restful_API ="https://github.com/Maytham-MJ/CRUDAPI";
+var R_Game= "https://well-groomed-able.surge.sh/";
 var MirrorToekn ="https://github.com/Maytham-MJ/Mirror-Token-";
-var CyberBank ="https://github.com/Maytham-MJ/Cyber-Bank";
-var CrudAPI ="https://github.com/Maytham-MJ/CRUDAPI";
 var NFTminter ="https://github.com/Maytham-MJ/NFTMinter";
 var Angular_Password_Generator ="https://github.com/Maytham-MJ/password-generator";
 
@@ -16,19 +18,18 @@ whois = [
   "<br>",
   "Hey, I'm Maytham AKA M.J!👋",
   "<br>",
-  "I'm a software engineer from CA with over 3 years of real work experiences, who builds software applications && cool stuff like this one.",
+  "I'm a software engineer from CA with over 4 years of real work experiences, who builds software applications && cool stuff like this one.",
   "After graduating from college, I quickly came to find out that software engineering && building ",
   "cool things are my passion. I then quickly started to learn and taught myself coding and programming",
-  "languages such as: Java, Solidity, HTML, CSS, JavaScript, GIT, Angular and much more.",
+  "languages such as: Java, Solidity, React, Spring Boot, HTML, CSS, JavaScript, GIT and much more.",
   "I started to enjoy the feeling of building things. I later earned Harvard CS50  Certificate where I learned",
   "Computer Science and software engineering fundemantales. Then I decided to join a bootcamp to further educate", 
-  "myself where I was trained on C# .NET FrameWork, SQL, AZURE, ASP.NET, ASP Web API, and more.",
+  "myself where I was trained on SQL, AZURE, and Web API",
 
 "<br></br>",
 
-  "I have successfully built an Employee Reimbursement System using an ASP.NET Core Web API written in C# as well as",
-  " 2 console applications in Java. One is Mortgage Qualifier and the other one is Cyber Bank. I also, built REST APIs using",
-  " both Java Spring Boot and NodeJs/JS. My proficiency in multiple languages and work knowledge allowed me to have excellent",
+  "I have successfully built Mortgage Qualifier in Java. I also enjoy building REST APIs using",
+  " Java, Spring Boot, and integrated microservices and testing Spring Cloud, Postman. My proficiency in multiple languages and work knowledge allowed me to have excellent",
   "communication and teamwork skills. In my free time, I enjoy swimming, playing soccer, and staying up-to-date on the latest",
   "automotive trends.",
   
@@ -38,6 +39,7 @@ whois = [
 ];
 
 whoami = [
+
   "<br>",
   "The paradox of “Who am I?” is: we never know, but, we constantly find out.",
   "<br>"
@@ -47,10 +49,10 @@ techStack = [
   "<br>",
   "I have experience with the following technologies: ",
   "Front-end ",
-  "JavaScript | HTML | CSS | Angular | TypeScript | BootStrap",
+  "JavaScript | React | Vue.js | HTML | CSS | 3D | Tailwindcss",
 
   "Back-end",
-  "Java | Spring Boot | Maven | MySQL | Docker | Bash",
+  "Java | Spring Boot | Maven | Node.js | MySQL | Docker | Bash",
   "C# | .NET FrameWork | ASP.NET | ASP.NET Core | MSSQL | AZURE",
 
   "Blockchain",
@@ -83,9 +85,11 @@ projects = [
   " Most projects are on GitHub.",
   `<br>`,
   'Project <a href="' + MortgageQualifier + '" target="_blank">Mortgage Qualifier' + '</a>',
-  'Project <a href="' + MirrorToekn + '" target="_blank">Mirror Token' + '</a>',
+  'Project <a href="' + Map_IT + '" target="_blank">Mirror Token' + '</a>',
   'Project <a href="' + CyberBank + '" target="_blank">CyberBank' + '</a>',
-  'Project <a href="' + CrudAPI + '" target="_blank">CRUD API' + '</a>',
+  'Project <a href="' + Restful_API + '" target="_blank">CRUD API' + '</a>',
+  'Project <a href="' + R_Game + '" target="_blank">R Game' + '</a>',
+  'Project <a href="' + MirrorToekn + '" target="_blank">Mirror Token' + '</a>',
   'Project <a href="' + NFTminter + '" target="_blank">NFT Minter' + '</a>',
   'Project <a href="' + Angular_Password_Generator + '" target="_blank">Angular Password Generator' + '</a>',
   
@@ -100,7 +104,7 @@ projects = [
 help = [
   "<br>",
   '<span class="command">whois</span>          Who is M.J?',
-  '<span class="command">whoami</span>         Who are you?',
+  '<span class="command">whoami</span>         Who R U?',
   //'<span class="command">video</span>          View YouTube videos',//
   '<span class="command">social</span>         Display social Links',
   '<span class="command">secret</span>         Find the password',
