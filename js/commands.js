@@ -12,7 +12,7 @@ var Restful_API ="https://github.com/Maytham-MJ/CRUDAPI";
 var R_Game= "https://well-groomed-able.surge.sh/";
 var MirrorToekn ="https://github.com/Maytham-MJ/Mirror-Token-";
 var NFTminter ="https://github.com/Maytham-MJ/NFTMinter";
-var Angular_Password_Generator ="https://github.com/Maytham-MJ/password-generator";
+var Angular_Password_Generator ="https://github.com/Maytham-MJ/password-generator"; 
 
 whois = [
   "<br>",
