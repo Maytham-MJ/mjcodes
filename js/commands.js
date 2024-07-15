@@ -18,20 +18,21 @@ whois = [
   "<br>",
   "Hey, I'm Maytham AKA M.J!👋",
   "<br>",
-  "I'm a software engineer from CA with over 4 years of real work experiences, who builds software applications && cool stuff like this one.",
-  "After graduating from college, I quickly came to find out that software engineering && building ",
-  "cool things are my passion. I then quickly started to learn and taught myself coding and programming",
-  "languages such as: Java, Solidity, React, Spring Boot, HTML, CSS, JavaScript, GIT and much more.",
-  "I started to enjoy the feeling of building things. I later earned Harvard CS50  Certificate where I learned",
+  "I'm a software engineer transitioning to cloud solution architect from CA with over 4 years of real work experiences in software development and IT in general. I love  building applications && cool stuff like this one.",
+  "After graduating from college, I quickly came to find out that tech",
+  "is my passion. I then quickly started to learn and taught myself coding and programming",
+  "languages such as: Java, Solidity, React, Spring Boot, HTML, CSS, JavaScript, and VC like GIT and much more.",
+  "I started to enjoy the feeling of building things and solving other peoples problems. I later earned Harvard Computer Sicence CS50 Certificate where I learned",
   "Computer Science and software engineering fundemantales. Then I decided to join a bootcamp to further educate", 
-  "myself where I was trained on SQL, AZURE, and Web API",
+  "myself where I was trained on SQL, Cloud, and Web API",
+  "Recenttly I'm taking on AWS tranining and in the process of earning my first AWS certificate",
 
-"<br></br>",
+// "<br></br>",
 
-  "I have successfully built Mortgage Qualifier in Java. I also enjoy building REST APIs using",
-  " Java, Spring Boot, and integrated microservices and testing Spring Cloud, Postman. My proficiency in multiple languages and work knowledge allowed me to have excellent",
-  "communication and teamwork skills. In my free time, I enjoy swimming, playing soccer, and staying up-to-date on the latest",
-  "automotive trends.",
+//   "I have successfully built Mortgage Qualifier in Java. I also enjoy building REST APIs using",
+//   " Java, Spring Boot, and integrated microservices and testing Spring Cloud, Postman. My proficiency in multiple languages and work knowledge allowed me to have excellent",
+//   "communication and teamwork skills. In my free time, I enjoy swimming, playing soccer, and staying up-to-date on the latest",
+//   "automotive trends.",
   
   "<br>"
 
@@ -48,12 +49,16 @@ whoami = [
 techStack = [
   "<br>",
   "I have experience with the following technologies: ",
+
+  "Cloud",
+  "AWS | AZURE, Spring Cloud.",
+
   "Front-end ",
   "JavaScript | React | Vue.js | HTML | CSS | 3D | Tailwindcss",
 
   "Back-end",
   "Java | Spring Boot | Maven | Node.js | MySQL | Docker | Bash",
-  "C# | .NET FrameWork | ASP.NET | ASP.NET Core | MSSQL | AZURE",
+  
 
   "Blockchain",
   "Solidity | Remix | Web3.js",
