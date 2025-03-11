@@ -18,14 +18,14 @@ whois = [
   "<br>",
   "Hey, I'm Maytham AKA M.J!👋",
   "<br>",
-  "I'm a software engineer transitioning to cloud solution architect from CA with over 4 years of real work experiences in software development and IT in general. I love  building applications && cool stuff like this one.",
+  "I'm a software engineer transitioning to Cybersecurity from CA with over 6 years of real work experiences in software development and IT in general. I love  building applications && cool stuff like this one.",
   "After graduating from college, I quickly came to find out that tech",
   "is my passion. I then quickly started to learn and taught myself coding and programming",
   "languages such as: Java, Solidity, React, Spring Boot, HTML, CSS, JavaScript, and VC like GIT and much more.",
   "I started to enjoy the feeling of building things and solving other peoples problems. I later earned Harvard Computer Sicence CS50 Certificate where I learned",
   "Computer Science and software engineering fundemantales. Then I decided to join a bootcamp to further educate", 
   "myself where I was trained on SQL, Cloud, and Web API",
-  "Recenttly I'm taking on AWS tranining and in the process of earning my first AWS certificate",
+  "Currently I'm working in Cybersecurity and in the process of earning my M.S Degree In Cybersecurity",
 
 // "<br></br>",
 
@@ -65,6 +65,9 @@ techStack = [
 
   "Version Control",
   "GIT | GitHub ",
+
+  "Cybersecurity",
+  "SIEM Tools | Network Security ",  
 
 ];
 
